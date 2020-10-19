@@ -2,7 +2,7 @@
 This will have solutions to all the problems that are included in C++ Foundation with Data Structures Combo Coding Ninja's Course. Star the repo if you like it.
 
 ## General Information
-The repository contains solutions to various problems on Coding Ninjas Course. The code are written by me.
+The repository contains solutions to various problems on Coding Ninjas Course. The codes are written by me.
 
 ## How to contribute?
 1. Fork the repository
