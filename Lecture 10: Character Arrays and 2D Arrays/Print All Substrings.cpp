@@ -44,7 +44,27 @@ void printSubstrings(char str[]){
             temp[tempindex] = '\0';
             cout<<temp<<endl;
         }
-    }
+    }   
+}
+
+
+/*********     METHOD-2     *********/
+void printSubstrings(char str[]){
+  /* Don't write main().
+     Don't read input, it is passed as function argument.
+     Print output as specified in the question.
+   */
+     
+    int n = strlen(str);
     
+    for(int i=0; i<=n-1; i++){
+        for(int j=0; j<=n-1; j++){
+        	for(int k=j; k<=i; k++){
+            	cout<<str[k];
+        	}
+            cout<<endl;
+        }
+        //cout<<endl;
+    }
     
 }
