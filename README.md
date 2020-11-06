@@ -1,5 +1,5 @@
-# Coding-Ninjas C++ Foundation with Data Structures Combo
-This will have solutions to all the problems that are included in C++ Foundation with Data Structures Combo Coding Ninja's Course. Star the repo if you like it.
+# Coding-Ninjas C++ Foundation 
+This will have solutions to all the problems that are included in C++ Foundation Coding Ninja's Course. Star the repo if you like it.
 
 ## General Information
 The repository contains solutions to various problems on Coding Ninjas Course. The codes are written by me.
